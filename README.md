@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **mukhog97@icloud.com**
 
-- ⚡ What I like to do: **I like so much reading, playing piano ...and coding of course**
+- ⚡ What I like to do: **I like so much reading, playing piano and violin, inline skating, swimming, volleyball ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
