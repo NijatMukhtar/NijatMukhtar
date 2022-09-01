@@ -38,6 +38,21 @@
   <a href="https://www.swift.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" alt="git" width="70" height="50" />
   </a>
+  <a href="https://www.java.com/en/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="git" width="70" height="50" />
+  </a>
+  <a href="https://www.w3schools.com/c/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="git" width="70" height="50" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="git" width="70" height="50" />
+  </a>
+  <a href="https://www.w3schools.com/cs/index.php">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="git" width="70" height="50" />
+  </a>
+  <a href="https://www.python.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="git" width="70" height="50" />
+  </a>
 </p>
 
 <p align= "center">
