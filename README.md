@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Swift**
 
-- 👯 I’m looking to collaborate on **Swift**
+- 👯 I’m freshman at Bilkent University
 
 - 📫 How to reach me: **mukhog97@icloud.com**
 
