@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Swift**
 
-- 👯 I’m looking to collaborate on **Front-End, Back-End Swift**
+- 👯 I’m looking to collaborate on **Swift**
 
 - 📫 How to reach me: **mukhog97@icloud.com**
 
