@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nijat <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Swift, Back-End, and Front-End (and a beginner designer) developer from Azerbaijan</h3>
 
-- 🌱 I’m currently working on **Swift**
+- 🌱 I’m currently working on **Swift** and **Java**
 
 - 👯 I’m freshman at Bilkent University
 
